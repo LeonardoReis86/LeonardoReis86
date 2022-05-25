@@ -1,4 +1,6 @@
-# Olá 👋
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div> # Olá 👋
 
 Meu nome é Leonardo, sou desenvolvedor back end na Muni Jobs, mentor na Generation Brasil e embaixador na Cubos Academy, além disso sou estudante de análise e desenvolvimento de sistemas na UNIRITTER e back end na Cubos Academy. Criei esse perfil para adiquirir e compartilhar conhecimento, experiências e estudos.
 
