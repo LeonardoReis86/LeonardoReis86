@@ -1,6 +1,6 @@
 # Olá 👋
 
-Meu nome é Leonardo, sou desenvolvedor back end na Muni Jobs, mentor na Generation Brasil e embaixador na Cubos Academy, além disso sou estudante de análise e desenvolvimento de sistemas na UNIRITTER e back end na Cubos Academy. Criei esse perfil para adiquirir e compartilhar conhecimento, experiências e estudos.
+Meu nome é Leonardo, sou desenvolvedor back end na Muni Jobs, mentor na Generation Brasil e embaixador na Cubos Academy, além disso sou estudante de análise e desenvolvimento de sistemas na UNIRITTER e back end na Cubos Academy. Criei esse perfil para adquirir e compartilhar conhecimento, experiências e estudos.
 
 ### Para me encontrar:
 
