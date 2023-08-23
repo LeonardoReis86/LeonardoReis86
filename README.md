@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Meu+Nome+é+Leonardo+Reis;Desenvolvedor+Front-End;Aprendendo+a+Cada+Dia;Ser+Mais+Acessível+à+Diversidade+Humana!)](https://git.io/typing-svg)
 
-### Para me encontrar:
+## Para me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 <a href = "mailto: leorsouza0311@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -22,10 +22,12 @@
 
 <a href="https://www.typescriptlang.org/" target="_blank" style="margin-right: 5px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="logo typescript" width="40" height="40"/> </a>
-
-  
+          
 <a href="https://git-scm.com/" target="_blank" style="margin-right: 5px;">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="logo git" width="40" height="40"/> </a>
+
+<a href="https://nodejs.org/pt-br/docs" target="_blank" style="margin-right: 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="logo nodejs" width="40" height="40"/> </a>
   
 <a href="https://www.postgresql.org/docs/" target="_blank" style="margin-right: 5px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="logo PostgreSQL" width="40" height="40"/></a>
