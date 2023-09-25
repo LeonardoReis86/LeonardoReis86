@@ -34,15 +34,13 @@
   
 <a href="https://pt-br.legacy.reactjs.org/docs/getting-started.html" target="_blank" style="margin-right: 5px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="logo react" width="40" height="40"/></a>
-
-<a href="https://www.swift.org/documentation/" target="_blank" style="margin-right: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="logo react" width="40" height="40"/></a>
   
 </div>
-
+<br>
+<!--  
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Leonardo/count.svg" /></p>
 <br></div>
-
+-->
 > Desenvolvendo para que todos os usuários possam desfrutar de uma experiência inclusiva e sem barreiras.
