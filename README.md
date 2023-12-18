@@ -37,10 +37,10 @@
   
 </div>
 <br>
-<!--  
+
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
+<br><p align="center"><b>Visitantes</b></p>  
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Leonardo/count.svg" /></p>
 <br></div>
--->
+
 > Desenvolvendo para que todos os usuários possam desfrutar de uma experiência inclusiva e sem barreiras.
