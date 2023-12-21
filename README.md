@@ -17,6 +17,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 5px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="logo css3" width="40" height="40"/> </a>
 
+<a href="https://sass-lang.com/documentation/" target="_blank" style="margin-right: 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="logo Sass" width="40" height="40"/> </a>
+
 <a href="https://www.w3schools.com/js/" target="_blank" style="margin-right: 5px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="logo javascript" width="40" height="40"/> </a>
 
